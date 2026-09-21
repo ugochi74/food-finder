@@ -1,0 +1,484 @@
+[
+ {
+  "name": "Jollof Rice",
+  "country": "Nigeria",
+  "type": "Main dish",
+  "tags": [
+   "rice",
+   "party food",
+   "spicy",
+   "one-pot"
+  ],
+  "description": "Rice cooked in a rich tomato and pepper sauce until it turns smoky and deep red.",
+  "how_eaten": "Served at parties and family meals with fried plantain, chicken or moi moi.",
+  "ingredients": [
+   {
+    "name": "Parboiled rice",
+    "quantity": "3 cups"
+   },
+   {
+    "name": "Tomatoes",
+    "quantity": "6 medium"
+   },
+   {
+    "name": "Red bell pepper",
+    "quantity": "2"
+   },
+   {
+    "name": "Scotch bonnet pepper",
+    "quantity": "1 to 2"
+   },
+   {
+    "name": "Onion",
+    "quantity": "2 medium"
+   },
+   {
+    "name": "Tomato paste",
+    "quantity": "3 tbsp"
+   },
+   {
+    "name": "Vegetable oil",
+    "quantity": "1/2 cup"
+   },
+   {
+    "name": "Chicken stock",
+    "quantity": "3 cups"
+   },
+   {
+    "name": "Thyme",
+    "quantity": "1 tsp"
+   },
+   {
+    "name": "Curry powder",
+    "quantity": "1 tsp"
+   },
+   {
+    "name": "Bay leaf",
+    "quantity": "2"
+   }
+  ],
+  "nutrition": {
+   "calories": 350,
+   "protein": 7,
+   "carbs": 60,
+   "fat": 9
+  }
+ },
+ {
+  "name": "Egusi Soup",
+  "country": "Nigeria",
+  "type": "Soup",
+  "tags": [
+   "soup",
+   "melon seeds",
+   "leafy greens"
+  ],
+  "description": "A thick soup of ground melon seeds simmered in palm oil with leafy vegetables, meat and fish.",
+  "how_eaten": "Eaten with pounded yam, eba or fufu, pinched into small balls and swallowed.",
+  "ingredients": [
+   {
+    "name": "Ground egusi (melon seeds)",
+    "quantity": "1.5 cups"
+   },
+   {
+    "name": "Palm oil",
+    "quantity": "1/2 cup"
+   },
+   {
+    "name": "Spinach or ugu leaves",
+    "quantity": "2 bunches"
+   },
+   {
+    "name": "Onion",
+    "quantity": "1"
+   },
+   {
+    "name": "Scotch bonnet pepper",
+    "quantity": "1"
+   },
+   {
+    "name": "Stockfish",
+    "quantity": "1 piece"
+   },
+   {
+    "name": "Beef",
+    "quantity": "300 g"
+   },
+   {
+    "name": "Ground crayfish",
+    "quantity": "2 tbsp"
+   },
+   {
+    "name": "Stock cubes",
+    "quantity": "2"
+   }
+  ],
+  "nutrition": {
+   "calories": 420,
+   "protein": 24,
+   "carbs": 9,
+   "fat": 32
+  }
+ },
+ {
+  "name": "Suya",
+  "country": "Nigeria",
+  "type": "Street food",
+  "tags": [
+   "beef",
+   "grilled",
+   "spicy",
+   "skewers"
+  ],
+  "description": "Thinly sliced beef on skewers, rubbed with a spicy peanut mix and grilled over open flame.",
+  "how_eaten": "Sold at roadsides in the evening, wrapped in paper with raw onion, tomato and extra spice.",
+  "ingredients": [
+   {
+    "name": "Beef sirloin",
+    "quantity": "500 g"
+   },
+   {
+    "name": "Ground roasted peanuts",
+    "quantity": "1/2 cup"
+   },
+   {
+    "name": "Paprika",
+    "quantity": "1 tbsp"
+   },
+   {
+    "name": "Cayenne pepper",
+    "quantity": "1 tsp"
+   },
+   {
+    "name": "Ground ginger",
+    "quantity": "1 tsp"
+   },
+   {
+    "name": "Garlic powder",
+    "quantity": "1 tsp"
+   },
+   {
+    "name": "Vegetable oil",
+    "quantity": "3 tbsp"
+   },
+   {
+    "name": "Onion (to serve)",
+    "quantity": "1"
+   }
+  ],
+  "nutrition": {
+   "calories": 310,
+   "protein": 32,
+   "carbs": 6,
+   "fat": 18
+  }
+ },
+ {
+  "name": "Moi Moi",
+  "country": "Nigeria",
+  "type": "Side dish",
+  "tags": [
+   "beans",
+   "steamed",
+   "high protein"
+  ],
+  "description": "A steamed pudding of blended peeled black-eyed beans, peppers and onion.",
+  "how_eaten": "Eaten at breakfast with pap, or as a side with jollof rice.",
+  "ingredients": [
+   {
+    "name": "Black-eyed peas",
+    "quantity": "2 cups"
+   },
+   {
+    "name": "Red bell pepper",
+    "quantity": "2"
+   },
+   {
+    "name": "Scotch bonnet pepper",
+    "quantity": "1"
+   },
+   {
+    "name": "Onion",
+    "quantity": "1"
+   },
+   {
+    "name": "Vegetable oil",
+    "quantity": "1/4 cup"
+   },
+   {
+    "name": "Ground crayfish",
+    "quantity": "2 tbsp"
+   },
+   {
+    "name": "Boiled eggs",
+    "quantity": "2"
+   },
+   {
+    "name": "Stock cube",
+    "quantity": "1"
+   }
+  ],
+  "nutrition": {
+   "calories": 240,
+   "protein": 13,
+   "carbs": 26,
+   "fat": 10
+  }
+ },
+ {
+  "name": "Pounded Yam",
+  "country": "Nigeria",
+  "type": "Swallow",
+  "tags": [
+   "yam",
+   "swallow",
+   "gluten-free"
+  ],
+  "description": "Boiled yam pounded until smooth, soft and stretchy.",
+  "how_eaten": "Served with egusi, efo riro or other soups. Pinched off and swallowed without chewing.",
+  "ingredients": [
+   {
+    "name": "White yam",
+    "quantity": "1 kg"
+   },
+   {
+    "name": "Water",
+    "quantity": "3 cups"
+   }
+  ],
+  "nutrition": {
+   "calories": 330,
+   "protein": 4,
+   "carbs": 78,
+   "fat": 1
+  }
+ },
+ {
+  "name": "Akara",
+  "country": "Nigeria",
+  "type": "Snack",
+  "tags": [
+   "beans",
+   "fried",
+   "breakfast"
+  ],
+  "description": "Deep-fried fritters made from whipped black-eyed bean paste.",
+  "how_eaten": "Eaten hot for breakfast with pap (ogi) or bread.",
+  "ingredients": [
+   {
+    "name": "Black-eyed peas",
+    "quantity": "2 cups"
+   },
+   {
+    "name": "Onion",
+    "quantity": "1"
+   },
+   {
+    "name": "Scotch bonnet pepper",
+    "quantity": "1"
+   },
+   {
+    "name": "Vegetable oil (for frying)",
+    "quantity": "2 cups"
+   },
+   {
+    "name": "Salt",
+    "quantity": "to taste"
+   }
+  ],
+  "nutrition": {
+   "calories": 220,
+   "protein": 9,
+   "carbs": 20,
+   "fat": 12
+  }
+ },
+ {
+  "name": "Doro Wat",
+  "country": "Ethiopia",
+  "type": "Stew",
+  "tags": [
+   "chicken",
+   "spicy",
+   "stew"
+  ],
+  "description": "A slow-cooked chicken stew rich with onions and berbere spice.",
+  "how_eaten": "Served on injera and shared from one platter, eaten by hand.",
+  "ingredients": [
+   {
+    "name": "Chicken",
+    "quantity": "1 kg"
+   },
+   {
+    "name": "Onions",
+    "quantity": "4 large"
+   },
+   {
+    "name": "Berbere spice",
+    "quantity": "3 tbsp"
+   },
+   {
+    "name": "Spiced butter (niter kibbeh)",
+    "quantity": "4 tbsp"
+   },
+   {
+    "name": "Garlic",
+    "quantity": "4 cloves"
+   },
+   {
+    "name": "Ginger",
+    "quantity": "1 tbsp"
+   },
+   {
+    "name": "Boiled eggs",
+    "quantity": "4"
+   }
+  ],
+  "nutrition": {
+   "calories": 480,
+   "protein": 38,
+   "carbs": 12,
+   "fat": 32
+  }
+ },
+ {
+  "name": "Spaghetti Carbonara",
+  "country": "Italy",
+  "type": "Pasta",
+  "tags": [
+   "pasta",
+   "eggs",
+   "quick"
+  ],
+  "description": "Spaghetti coated in a sauce of egg yolks, cured pork and hard cheese, with no cream.",
+  "how_eaten": "Served straight from the pan as a main course, topped with black pepper.",
+  "ingredients": [
+   {
+    "name": "Spaghetti",
+    "quantity": "400 g"
+   },
+   {
+    "name": "Guanciale or bacon",
+    "quantity": "150 g"
+   },
+   {
+    "name": "Egg yolks",
+    "quantity": "4"
+   },
+   {
+    "name": "Pecorino Romano",
+    "quantity": "1 cup"
+   },
+   {
+    "name": "Black pepper",
+    "quantity": "1 tsp"
+   }
+  ],
+  "nutrition": {
+   "calories": 610,
+   "protein": 24,
+   "carbs": 68,
+   "fat": 26
+  }
+ },
+ {
+  "name": "Chana Masala",
+  "country": "India",
+  "type": "Curry",
+  "tags": [
+   "vegan",
+   "curry",
+   "chickpeas"
+  ],
+  "description": "Chickpeas simmered in a tangy tomato and onion sauce with warm spices.",
+  "how_eaten": "Eaten with rice, naan or bhature.",
+  "ingredients": [
+   {
+    "name": "Chickpeas (cooked)",
+    "quantity": "2 cans"
+   },
+   {
+    "name": "Onions",
+    "quantity": "2"
+   },
+   {
+    "name": "Tomatoes",
+    "quantity": "3"
+   },
+   {
+    "name": "Garlic",
+    "quantity": "4 cloves"
+   },
+   {
+    "name": "Ginger",
+    "quantity": "1 tbsp"
+   },
+   {
+    "name": "Garam masala",
+    "quantity": "2 tsp"
+   },
+   {
+    "name": "Cumin",
+    "quantity": "1 tsp"
+   },
+   {
+    "name": "Vegetable oil",
+    "quantity": "3 tbsp"
+   }
+  ],
+  "nutrition": {
+   "calories": 290,
+   "protein": 12,
+   "carbs": 40,
+   "fat": 9
+  }
+ },
+ {
+  "name": "Tacos al Pastor",
+  "country": "Mexico",
+  "type": "Street food",
+  "tags": [
+   "pork",
+   "tacos",
+   "pineapple"
+  ],
+  "description": "Pork marinated in chiles and achiote, cooked until crisp at the edges and served with pineapple.",
+  "how_eaten": "Folded into small corn tortillas with onion, cilantro and lime.",
+  "ingredients": [
+   {
+    "name": "Pork shoulder",
+    "quantity": "1 kg"
+   },
+   {
+    "name": "Dried guajillo chiles",
+    "quantity": "4"
+   },
+   {
+    "name": "Achiote paste",
+    "quantity": "2 tbsp"
+   },
+   {
+    "name": "Pineapple",
+    "quantity": "1 cup"
+   },
+   {
+    "name": "Onion",
+    "quantity": "1"
+   },
+   {
+    "name": "Garlic",
+    "quantity": "4 cloves"
+   },
+   {
+    "name": "Corn tortillas",
+    "quantity": "12"
+   }
+  ],
+  "nutrition": {
+   "calories": 420,
+   "protein": 26,
+   "carbs": 38,
+   "fat": 18
+  }
+ }
+]
